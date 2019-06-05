@@ -1,0 +1,480 @@
+experiment,EFOValue
+E-GEOD-10591,liver carcinoma
+E-GEOD-10289,hepatocellular carcinoma
+E-GEOD-10406,chronic rhinosinusitis
+E-GEOD-10406,normal
+E-GEOD-10406,cystic fibrosis and chronic rhinosinusitis
+E-GEOD-10696,epidermoid carcinoma
+E-GEOD-10718,normal
+E-GEOD-10746,acute myeloid leukemia
+E-GEOD-10746,normal
+E-GEOD-10879,breast cancer
+E-GEOD-10890,breast cancer
+E-GEOD-10799,normal
+E-GEOD-10799,pulmonary adenocarcinoma
+E-GEOD-10780,normal
+E-GEOD-10780,breast carcinoma
+E-GEOD-10820,acute lymphoblastic leukemia
+E-GEOD-10831,hodgkins lymphoma
+E-GEOD-10831,normal
+E-GEOD-11078,breast carcinoma
+E-GEOD-10916,melanoma
+E-GEOD-10927,adrenocortical carcinoma
+E-GEOD-10927,adrenocortical adenoma
+E-GEOD-10927,normal
+E-GEOD-11755,meningococcal sepsis
+E-GEOD-11755,normal
+E-GEOD-10971,high grade serous carcinoma
+E-GEOD-10971,normal
+E-GEOD-11352,breast cancer
+E-GEOD-11199,meningeal tuberculosis
+E-GEOD-11199,pulmonary tuberculosis
+E-GEOD-11199,latent tuberculosis
+E-GEOD-11428,prostate cancer
+E-GEOD-11309,normal
+E-GEOD-11309,autoimmune polyendocrinopathy-candidiasis-ectodermal dystrophy
+E-GEOD-11324,breast cancer
+E-GEOD-11440,colon cancer
+E-GEOD-11886,normal
+E-GEOD-11886,ankylosing spondylitis
+E-GEOD-11761,normal
+E-GEOD-11783,interstitial cystitis
+E-GEOD-11783,normal
+E-GEOD-11839,interstitial cystitis
+E-GEOD-11839,stress incontinence
+E-GEOD-12090,chromophobe renal cell carcinoma
+E-GEOD-12090,oncocytoma
+E-GEOD-12113,pancreatic cancer
+E-GEOD-12251,ulcerative colitis
+E-GEOD-12254,viral hemorrhagic fever
+E-GEOD-12254,normal
+E-GEOD-11959,neuroblastoma
+E-GEOD-12034,normal
+E-GEOD-12172,ovarian cancer
+E-GEOD-12408,alagille syndrome
+E-GEOD-12408,cornelia de lange syndrome
+E-GEOD-12408,roberts syndrome
+E-GEOD-12408,normal
+E-GEOD-12287,t cell leukemia
+E-GEOD-12452,nasopharyngeal carcinoma
+E-GEOD-12452,normal
+E-GEOD-12886,hepatoma
+E-GEOD-12710,normal
+E-GEOD-12631,lung cancer
+E-GEOD-12631,heart infarct
+E-GEOD-12631,brain embolism
+E-GEOD-12662,fab: m2 acute myeloid leukemia
+E-GEOD-12662,fab: m4 acute myeloid leukemia
+E-GEOD-12662,fab: m1 acute myeloid leukemia
+E-GEOD-12662,normal
+E-GEOD-12662,fab:m3 acute myeloid leukemia
+E-GEOD-12662,fab: m0 acute myeloid leukemia
+E-GEOD-12773,atopy
+E-GEOD-12667,lung adenocarcinoma
+E-GEOD-12667,unknown
+E-GEOD-12667,large cell neuroendocrine carcinoma
+E-GEOD-12667,squamous cell lung carcinoma
+E-GEOD-12734,chronic lymphocytic leukemia
+E-GEOD-12854,ovarian carcinoma
+E-GEOD-13142,hepatocellular carcinoma
+E-GEOD-12949,glioblastoma multiforme
+E-GEOD-13396,normal
+E-GEOD-13396,asthma
+E-GEOD-13355,psoriasis
+E-GEOD-13355,normal
+E-GEOD-13309,lung cancer
+E-GEOD-13314,pulmonary malt lymphoma
+E-GEOD-13319,leiomyoma
+E-GEOD-13319,normal
+E-GEOD-13501,normal
+E-GEOD-13501,juvenile idiopathic arthritis subtype oligoarthritis
+E-GEOD-13501,juvenile idiopathic arthritis subtype enthesitis related arthritis
+E-GEOD-13501,juvenile idiopathic arthritis subtype rheumatoid factor polyarthritis
+E-GEOD-13501,juvenile idiopathic arthritis subtype systemic
+E-GEOD-13487,melanoma
+E-GEOD-13837,rheumatoid arthritis
+E-GEOD-13837,osteoarthritis
+E-GEOD-13548,cancer
+E-GEOD-13763,ovarian cancer
+E-GEOD-13887,systemic lupus erythematosus
+E-GEOD-13887,normal
+E-GEOD-13899,normal
+E-GEOD-13909,normal
+E-GEOD-13909,nijmegen breakage syndrome
+E-GEOD-13896,normal
+E-GEOD-13896,chronic obstructive pulmonary disease
+E-GEOD-13911,gastric cancer
+E-GEOD-14001,ovarian serous carcinoma
+E-GEOD-14001,normal
+E-GEOD-14001,"normal,ovarian serous carcinoma"
+E-GEOD-14017,breast cancer
+E-GEOD-14479,acute myeloid leukemia
+E-GEOD-14479,t acute lymphoblastic leukemia
+E-GEOD-13987,normal
+E-GEOD-13987,b cell chronic lymphocytic leukemia
+E-GEOD-14383,normal
+E-GEOD-14827,osteosarcoma subtype osteoblastic
+E-GEOD-14827,osteosarcoma subtype chondroblastic
+E-GEOD-14827,osteosarcoma subtype telangiectatic
+E-GEOD-14827,osteosarcoma subtype fibroblastic
+E-GEOD-14926,normal
+E-GEOD-14924,acute myeloid leukemia
+E-GEOD-14924,normal
+E-GEOD-14973,chronic lymphocytic leukemia
+E-GEOD-15645,normal
+E-GEOD-15645,polyarticular juvenile idiopathic arthritis
+E-GEOD-15271,inflamed tonsil
+E-GEOD-16134,periodontitis
+E-GEOD-16134,normal
+E-GEOD-15947,normal
+E-GEOD-16020,autosomal dominant monocytopenia
+E-GEOD-16020,normal
+E-GEOD-15960,colorectal cancer
+E-GEOD-15960,adenoma
+E-GEOD-15960,normal
+E-GEOD-16237,neuroblastoma
+E-GEOD-16214,multiple sclerosis or clinically isolated syndrome
+E-GEOD-16363,control
+E-GEOD-16363,acute hiv-1 infection
+E-GEOD-16363,asymptomatic hiv-1 infection
+E-GEOD-16363,aids
+E-GEOD-1643,normal
+E-GEOD-16455,cmcl (conventional mantle cell lymphoma)
+E-GEOD-16455,imcl (indolent mantle cell lymphoma)
+E-GEOD-16455,hcl (hairy cell leukemia)-variant
+E-GEOD-16455,hcl (hairy cell leukemia)
+E-GEOD-16455,smlz (splenic marginal zone lymphoma)
+E-GEOD-16455,cll (chronic lymphocytic leukemia)
+E-GEOD-16455,lf (follicular lymphoma)
+E-GEOD-16728,control
+E-GEOD-16728,sickle cell anaemia
+E-GEOD-16515,pancreatic cancer
+E-GEOD-16515,normal
+E-GEOD-16797,kawasaki disease
+E-GEOD-16836,normal
+E-GEOD-17189,"aids related lymphoma,activated b-cell-like diffuse large b-cell lymphoma"
+E-GEOD-17189,"aids related lymphoma,germinal center b-cell-like diffuse large b-cell lymphoma"
+E-GEOD-17189,"aids related lymphoma,burkitts lymphoma"
+E-GEOD-17189,"aids related lymphoma,diffuse large b-cell lymphoma"
+E-GEOD-17385,multiple myeloma
+E-GEOD-17743,gastrointestinal stromal tumor
+E-GEOD-17763,reversal reaction leprosy
+E-GEOD-17763,lepromatous leprosy
+E-GEOD-17763,borderline tuberculoid leprosy
+E-GEOD-17549,choroideremia
+E-GEOD-17549,normal
+E-GEOD-17906,prostate cancer
+E-GEOD-17906,normal
+E-GEOD-17906,bladder cancer
+E-GEOD-18018,without mld
+E-GEOD-18018,with mld
+E-GEOD-18842,normal
+E-GEOD-18842,non-small cell lung cancer
+E-GEOD-19069,peripheral t-cell lymphoma
+E-GEOD-19069,normal
+E-GEOD-19069,t-cell acute lymphoblastic leukemia
+E-GEOD-19067,extranodal nk/t-cell lymphoma
+E-GEOD-19067,peripheral t-cell lymphoma
+E-GEOD-19067,blastic nk-cell lymphoma
+E-GEOD-19246,b-cell lymphoma
+E-GEOD-19188,tumor
+E-GEOD-19188,healthy
+E-GEOD-19639,breast cancer
+E-GEOD-19293,melanoma
+E-GEOD-19665,hepatocellular carcinoma; hbv+
+E-GEOD-19665,hepatocellular carcinoma hbv+
+E-GEOD-19665,hcv+
+E-GEOD-19665,hepatocellular carcinoma; hcv+
+E-GEOD-19665,hbv+
+E-GEOD-19784,multiple myeloma
+E-GEOD-19826,gastric cancer
+E-GEOD-19826,normal
+E-GEOD-19743,inhalation injury
+E-GEOD-19743,n/a
+E-GEOD-19743,no inhalation injury
+E-GEOD-19804,lung tumor
+E-GEOD-19804,lung cancer
+E-GEOD-19982,renal oncocytoma
+E-GEOD-19982,chromophobe renal cell carcinoma
+E-GEOD-20114,hypertriglyceridemia
+E-GEOD-20153,parkinson's disease
+E-GEOD-20153,control
+E-GEOD-20266,breast cancer
+E-GEOD-20266,healthy control
+E-GEOD-20540,multiple myeloma
+E-GEOD-20559,liposarcoma
+E-GEOD-21050,liposarcoma - dedifferentiated
+E-GEOD-21050,undifferentiated sarcoma
+E-GEOD-21050,other
+E-GEOD-21050,leiomyosarcoma
+E-GEOD-20950,obese
+E-GEOD-21293,engineered invasive esophageal squamous cell carcinoma
+E-GEOD-21293,engineered non-invasive esophageal squamous cell carcinoma
+E-GEOD-21261,acute myeloid leukemia
+E-GEOD-21610,dilated cardiomyopathy
+E-GEOD-21610,ischemic cardiomyopathy
+E-GEOD-21610,dilated cardiomyopathy (vd)
+E-GEOD-21610,none
+E-GEOD-21912,bmi1-shrna
+E-GEOD-21912,control
+E-GEOD-22148,severe
+E-GEOD-22148,moderate
+E-GEOD-22152,acute lymphoblastic leukemia
+E-GEOD-22513,breast cancer
+E-GEOD-22544,"breast cancer,infiltrating ductal carcinoma"
+E-GEOD-22544,normal
+E-GEOD-22544,"breast cancer,node metastasis"
+E-GEOD-22563,renal cell carcinoma
+E-GEOD-22779,normal
+E-GEOD-22779,epilepsy
+E-GEOD-23687,juvenile idiopathic arthritis
+E-GEOD-23806,glioblastoma
+E-GEOD-23878,normal
+E-GEOD-23878,colorectal carcinoma
+E-GEOD-2397,colorectal carcinoma
+E-GEOD-25550,mucosa-associated lymphoid tissue lymphoma
+E-GEOD-25550,normal
+E-GEOD-25518,cryptorchidism
+E-GEOD-25518,testicular agenesis
+E-GEOD-26495,normal
+E-GEOD-26673,endemic burkitt lymphoma
+E-GEOD-26673,sporadic burkitt lymphoma
+E-GEOD-26673,immunodeficiency associated burkitt lymphoma
+E-GEOD-2748,papillary renal cell carcinoma
+E-GEOD-26966,normal
+E-GEOD-26966,pituitary cancer
+E-GEOD-27034,normal
+E-GEOD-27034,peripheral arterial disease (pad)
+E-GEOD-27187,acute myeloid leukemia (aml m5)
+E-GEOD-3325,primary prostate cancer
+E-GEOD-3325,benign prostate tumor
+E-GEOD-3325,metastatic prostate cancer
+E-GEOD-3292,hpv negative
+E-GEOD-3292,hpv positive
+E-GEOD-33455,metastatic prostate cancer
+E-GEOD-3467,normal
+E-GEOD-3467,papillary thyroid carcinoma
+E-GEOD-34880,b-precursor acute lymphoblastic leukemia
+E-GEOD-3526,normal
+E-GEOD-35972,ovarian carcinoma
+E-GEOD-3678,papillary thyroid carcinoma
+E-GEOD-3678,normal
+E-GEOD-37258,control
+E-GEOD-37258,klinefelter syndrome
+E-GEOD-3744,non-basal-like breast cancer
+E-GEOD-3744,normal
+E-GEOD-3744,sporadic basal-like breast cancer
+E-GEOD-3744,brca1-associated breast cancer
+E-GEOD-40611,primary sjogren syndrome
+E-GEOD-40611,normal
+E-GEOD-40611,non primary sjogren syndrome sicca
+E-GEOD-4182,spina bifida
+E-GEOD-4182,normal
+E-GEOD-4290,epilepsy
+E-GEOD-4290,glioblastoma
+E-GEOD-4290,astrocytoma
+E-GEOD-4290,oligodendroglioma
+E-GEOD-4483,cervical adenocarcinoma
+E-GEOD-4619,myelodysplastic syndrome
+E-GEOD-4619,normal
+E-GEOD-4883,normal
+E-GEOD-4888,normal
+E-GEOD-5040,normal
+E-GEOD-5040,freidriech's ataxia
+E-GEOD-5230,hepatocellular carcinoma
+E-GEOD-5372,normal
+E-GEOD-5563,normal
+E-GEOD-5563,vulvar intraepithelial neoplasia
+E-GEOD-5764,invasive lobular carcinoma
+E-GEOD-5764,invasive ductal carcinoma
+E-GEOD-5823,cervical cancer
+E-GEOD-5823,breast cancer
+E-GEOD-6004,papillary thyroid cancer
+E-GEOD-6034,adult t-cell leukemia
+E-GEOD-6054,normal
+E-GEOD-6054,familial hypercholesterolemia
+E-GEOD-6364,normal
+E-GEOD-6364,endometriosis
+E-GEOD-6338,peripheral t-cell lymphoma unspecified
+E-GEOD-6338,normal
+E-GEOD-6338,anaplastic large cell lymphoma
+E-GEOD-6338,angioimmunoblastic t-cell lymphoma
+E-GEOD-6400,lung carcinoma
+E-GEOD-6495,t cell acute lymphoblastic leukemia
+E-GEOD-6764,"hepatitis c virus, hepatocellular carcinoma"
+E-GEOD-6764,"no infection, normal"
+E-GEOD-6764,"no infection, cirrhoses"
+E-GEOD-6872,teratozoospermia
+E-GEOD-6872,normospermic
+E-GEOD-7011,normal
+E-GEOD-7307,normal
+E-GEOD-7307,endometriosis
+E-GEOD-7307,rheumatoid arthritis
+E-GEOD-7307,parkinson's disease
+E-GEOD-7307,adenomyosis
+E-GEOD-7307,uterine fibroid
+E-GEOD-7307,prostate cancer
+E-GEOD-7307,neuromuscular pain
+E-GEOD-7307,benign prostatic hyperplasia
+E-GEOD-7307,melanoma
+E-GEOD-7307,breast cancer
+E-GEOD-7307,prostate cancer - adjacent tissue
+E-GEOD-7224,sleep apnea
+E-GEOD-7224,normal
+E-GEOD-7440,high risk b-precurser acute lymphoblastic leukemia
+E-GEOD-7392,normal
+E-GEOD-7538,acute myelogenous leukemia
+E-GEOD-7515,breast cancer
+E-GEOD-7578,medulloblastoma
+E-GEOD-7586,chronic malaria
+E-GEOD-7586,previous malaria infection
+E-GEOD-7586,acute malaria
+E-GEOD-7586,normal
+E-GEOD-7621,parkinson's disease
+E-GEOD-7621,control
+E-GEOD-7696,glioblastoma multiforme
+E-GEOD-7696,normal
+E-GEOD-7696,recurrent glioblastoma multiforme
+E-GEOD-7708,prostate cancer
+E-GEOD-7869,renal cell carcinoma
+E-GEOD-7869,autosomal dominant polycystic kidney disease
+E-GEOD-8023,normal
+E-GEOD-8167,gastrointestinal stromal tumor
+E-GEOD-8141,breast cancer
+E-GEOD-8052,normal
+E-GEOD-8052,asthma
+E-GEOD-8121,septic shock
+E-GEOD-8121,control
+E-GEOD-8514,aldosterone-producing adenoma
+E-GEOD-8514,normal
+E-GEOD-8597,breast cancer
+E-GEOD-8717,malignant peripheral nerve sheath tumor
+E-GEOD-8977,normal
+E-GEOD-8977,invasive ductal carcinoma
+E-GEOD-9171,glioblastoma
+E-GEOD-9452,"ulcerative colitis pre-inflammation,ulcerative colitis without inflammation"
+E-GEOD-9452,ulcerative colitis
+E-GEOD-9452,ulcerative colitis with inflammation
+E-GEOD-9452,normal
+E-GEOD-9692,septic shock
+E-GEOD-9692,normal
+E-GEOD-9599,pancreatic cancer
+E-GEOD-9761,breast cancer
+E-MEXP-1072,mock infected
+E-MEXP-1072,poliovirus-infected
+E-MEXP-1171,colorectal carcinoma
+E-MEXP-1140,type 1 diabetes longstanding
+E-MEXP-1140,normal
+E-MEXP-1140,type 1 diabetes clinical onset
+E-MEXP-1140,type 1 diabetes recent onset
+E-MEXP-1243,high-grade prostatic intraepithelial neoplasia
+E-MEXP-1243,benign prostatic hyperplasia
+E-MEXP-1243,prostate cancer
+E-MEXP-1372,adenocarcinoma
+E-MEXP-1389,acute myeloid leukemia
+E-MEXP-1482,chronic lymphocytic leukemia
+E-MEXP-1425,normal
+E-MEXP-1425,obesity
+E-MEXP-1828,celiac disease
+E-MEXP-1857,small cell lung cancer
+E-MEXP-1838,adenocarcinoma
+E-MEXP-2010,cancer
+E-MEXP-1901,rectal adenocarcinoma
+E-MEXP-1922,leiomyosarcoma
+E-MEXP-1922,undifferentiated sarcoma
+E-MEXP-2034,benign prostatic hyperplasia
+E-MEXP-2034,prostate carcinoma
+E-MEXP-2069,normal
+E-MEXP-2069,gulf war illness
+E-MEXP-2083,active crohn's disease
+E-MEXP-2083,normal
+E-MEXP-2083,active ulcerative colitis
+E-MEXP-2083,non-active ulcerative colitis
+E-MEXP-2280,pick's disease
+E-MEXP-2280,progressive supranuclear palsy
+E-MEXP-2280,normal
+E-MEXP-2280,alzheimer's disease
+E-MEXP-2236,muenke syndrome
+E-MEXP-2236,nonsyndromic sagittal synostosis
+E-MEXP-2236,apert syndrome
+E-MEXP-2236,soetre-chotzen syndrome
+E-MEXP-2351,subependymal giant cell astrocytoma
+E-MEXP-2351,normal
+E-MEXP-2340,neuroblastoma
+E-MEXP-2375,hepatitis c infected
+E-MEXP-2559,type 2 diabetes
+E-MEXP-2559,healthy first degree relative
+E-MEXP-2559,normal
+E-MEXP-2590,colon adenocarcinoma
+E-MEXP-2657,benign prostatic hyperplasia
+E-MEXP-3582,ebv-infection
+E-MEXP-3628,osteosarcoma
+E-MEXP-3628,normal
+E-MEXP-3479,gastric cancer
+E-MEXP-3496,control
+E-MEXP-3496,enterococcus faecalis infected
+E-MEXP-3756,control
+E-MEXP-3756,colorectal cancer
+E-MEXP-561,normal
+E-MEXP-561,kaposi's sarcoma
+E-MEXP-858,normal
+E-MEXP-930,normal
+E-MEXP-935,ovarian carcinoma
+E-MEXP-884,normal
+E-MEXP-964,undifferentiated sarcoma
+E-MEXP-964,well-differentiated sarcoma
+E-MEXP-980,cystic fibrosis
+E-MEXP-987,systemic juvenile idiopathic arthritis
+E-MEXP-993,prostate adenocarcinoma
+E-MEXP-993,benign prostatic hyperplasia
+E-MTAB-1131,chronic lymphocytic leukemia
+E-MTAB-1425,asthma
+E-MTAB-1425,normal
+E-MTAB-1425,unknown
+E-MTAB-317,myeloma
+E-MTAB-317,monoclonal gammopathy of unknown significance (mgus)
+E-MTAB-372,myeloma
+E-MTAB-372,monoclonal gammopathy of uncertain significance
+E-MTAB-680,decidualised
+E-MTAB-680,non-decidualised
+E-MTAB-680,partially decidualised
+E-MTAB-691,ovarian carcinoma
+E-MTAB-69,multiple sclerosis
+E-MTAB-69,"neurological disease, non-inflammatory"
+E-TABM-1020,acute myeloid leukemia
+E-TABM-1029,acute myeloid leukemia
+E-TABM-1138,multiple myeloma
+E-TABM-118,crohn's disease
+E-TABM-118,normal
+E-TABM-1208,acute myeloid leukemia
+E-TABM-176,normal
+E-TABM-176,irritable bowel syndrome
+E-TABM-234,ejaculatory azoospermia
+E-TABM-276,breast carcinoma
+E-TABM-276,normal
+E-TABM-282,clear cell renal carcinoma
+E-TABM-282,normal
+E-TABM-302,head and neck squamous cell carcinoma
+E-TABM-666,ica
+E-TABM-666,pre-diabetes
+E-TABM-666,normal
+E-TABM-666,type 1 diabetes
+E-TABM-311,cancer
+E-TABM-311,adenoma
+E-TABM-311,normal
+E-TABM-440,normal
+E-TABM-577,villitis
+E-TABM-601,breast cancer
+E-TABM-702,nodal peripheral t-cell lymphoma
+E-TABM-702,normal
+E-TABM-702,extranodal nk/t-cell lymphoma
+E-TABM-702,extranodal nk/t-cell lymphoma derived cell line
+E-TABM-733,healthy
+E-TABM-733,colonic crohn's disease
+E-TABM-733,ileal crohn's disease
+E-TABM-763,chronic lymphocytic leukemia
+E-TABM-734,healthy
+E-TABM-734,ulcerative colitis
+E-TABM-783,"peripheral t-cell lymphoma, not otherwise specified"
+E-TABM-783,angioimmunoblastic t-cell lymphoma
+E-TABM-898,glioblastoma

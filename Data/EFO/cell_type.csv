@@ -1,0 +1,386 @@
+experiment,EFOValue
+E-GEOD-10070,epithelial cell
+E-GEOD-10233,monocyte
+E-GEOD-10311,osteoblast like cells
+E-GEOD-10595,stromal cell
+E-GEOD-10313,lymphoblastoid
+E-GEOD-10315,mesenchymal stem cell
+E-GEOD-10718,epithelial cell
+E-GEOD-10444,dental pulp stem cell
+E-GEOD-10479,huvec cell
+E-GEOD-10879,epithelial cell
+E-GEOD-10821,germinal center b cell
+E-GEOD-10820,t cell
+E-GEOD-10820,b cell
+E-GEOD-10831,b cell
+E-GEOD-10896,monocyte
+E-GEOD-10916,continuous cell line
+E-GEOD-11755,not specified
+E-GEOD-11755,lymphocyte
+E-GEOD-11755,monocyte
+E-GEOD-10971,epithelial cell
+E-GEOD-11057,mononuclear
+E-GEOD-11057,naive t cell
+E-GEOD-11057,central memory t cell
+E-GEOD-11057,effector memory t cell
+E-GEOD-10979,epithelial cell
+E-GEOD-11348,epithelium
+E-GEOD-11199,macrophage
+E-GEOD-11281,mononuclear
+E-GEOD-11285,glioma
+E-GEOD-11309,monocyte derived dendritic cell
+E-GEOD-11462,monocyte
+E-GEOD-11462,lymphocyte
+E-GEOD-11886,macrophage
+E-GEOD-11761,mononuclear
+E-GEOD-11919,fibroblast
+E-GEOD-11941,hepatocyte
+E-GEOD-11839,urothelial
+E-GEOD-12198,natural killer cell
+E-GEOD-12108,mononuclear cell
+E-GEOD-12121,keratinocyte
+E-GEOD-12034,oocyte
+E-GEOD-12034,mixed somatic cell types
+E-GEOD-12264,osteoblast
+E-GEOD-12265,mononuclear
+E-GEOD-12265,mesenchymal stem cell
+E-GEOD-12293,neuron
+E-GEOD-12293,endothelial
+E-GEOD-12355,b cell
+E-GEOD-12408,lymphoblastoid cell line
+E-GEOD-12452,epithelium
+E-GEOD-12710,mononuclear cell
+E-GEOD-12631,"conjunctival non-side population cells,epithelial cell"
+E-GEOD-12631,"conjunctival side population cells,epithelial cell"
+E-GEOD-12662,promyelocyte
+E-GEOD-12662,cd34 positive
+E-GEOD-12662,neutrophil
+E-GEOD-12773,cd14 positive monocyte
+E-GEOD-12734,cd19 positive
+E-GEOD-12764,epithelial cell
+E-GEOD-13142,hepg2/c3a
+E-GEOD-13002,multipotent stromal
+E-GEOD-13073,mesenchymal stem cell
+E-GEOD-13396,epithelial cell
+E-GEOD-13274,epithelial cell
+E-GEOD-13284,erythroid progenitor
+E-GEOD-13501,mononuclear
+E-GEOD-13487,epithelial cell
+E-GEOD-13837,fibroblast
+E-GEOD-13637,"huvec,endothelial"
+E-GEOD-13548,fibroblast
+E-GEOD-13548,epithelial cell
+E-GEOD-13762,immature dendritic cell
+E-GEOD-13762,differentiating dendritic cell
+E-GEOD-13762,cd14-positive monocyte
+E-GEOD-13712,human umbilical vein endothelial cell
+E-GEOD-13887,t cell
+E-GEOD-13899,mononuclear
+E-GEOD-13909,primary t lymphocyte
+E-GEOD-13909,immortalised t lymphocyte
+E-GEOD-14001,epithelial cell
+E-GEOD-14479,lymphoblast
+E-GEOD-13975,mesenchymal stem cell
+E-GEOD-13987,t cell
+E-GEOD-13987,mononuclear
+E-GEOD-13987,b cell
+E-GEOD-14390,macrophage
+E-GEOD-14383,epithelial cell
+E-GEOD-14278,cd4 positive
+E-GEOD-14897,fibroblast post hepatic differentiation
+E-GEOD-14897,stem cell
+E-GEOD-14897,induced pluripotent stem cell
+E-GEOD-14897,stem cell post hepatic differentiation
+E-GEOD-14897,fibroblast
+E-GEOD-14926,cd4-positive t cell
+E-GEOD-14926,cd8-positive t cell
+E-GEOD-14924,cd4-positive t cell
+E-GEOD-14924,cd8-positive t cell
+E-GEOD-14990,cancer cell culture
+E-GEOD-14990,immortalized cell culture
+E-GEOD-15645,mononuclear
+E-GEOD-15271,centroblast
+E-GEOD-15271,centrocyte
+E-GEOD-15389,mononuclear
+E-GEOD-15543,islet beta cell
+E-GEOD-15811,cd34+ cell
+E-GEOD-15893,cxcr4 negative
+E-GEOD-15893,cxcr4 positive
+E-GEOD-15947,epithelial cell
+E-GEOD-16020,polymorphonuclear leukocyte
+E-GEOD-15960,colonic epithelial cell
+E-GEOD-16193,thp-1 cell
+E-GEOD-16214,mononuclear
+E-GEOD-16836,"cd16 positive,cd16 positive mononuclear cell"
+E-GEOD-16836,"cd16 negative,cd16 negative mononuclear cell"
+E-GEOD-16837,polymorphonuclear leukocyte
+E-GEOD-17347,lung carcinoma
+E-GEOD-17347,squamous cell carcinoma
+E-GEOD-17251,hepatocyte
+E-GEOD-17400,epithelial cell
+E-GEOD-17482,prostrate cancer
+E-GEOD-17549,monocyte
+E-GEOD-17549,"fibroblast,primary fibroblast culture"
+E-GEOD-17636,epithelial cell
+E-GEOD-17906,cd90 positive
+E-GEOD-17906,"cd49a positive,stromal fibromuscular"
+E-GEOD-17906,cd26 positive
+E-GEOD-17906,"cd13 positive,stromal fibromuscular"
+E-GEOD-17906,cd13 positive
+E-GEOD-18018,mononuclear cell
+E-GEOD-18811,fetal rpe
+E-GEOD-18811,adult native rpe from 78 y.o. donor
+E-GEOD-18811,adult native rpe from 89 y.o. donor
+E-GEOD-18811,native fetal rpe
+E-GEOD-18811,not specified
+E-GEOD-18811,adult native rpe from 76 y.o. donor
+E-GEOD-18811,adult choroid from 76 y.o. donor
+E-GEOD-18791,dendritic cell
+E-GEOD-18913,endothelial
+E-GEOD-19069,cd8-positive t cell
+E-GEOD-19069,cd4-positive t cell
+E-GEOD-19069,lymphoblast
+E-GEOD-19067,natural killer cell
+E-GEOD-19067,gamma-delta t cell
+E-GEOD-19188,lcc
+E-GEOD-19188,healthy
+E-GEOD-19188,adipose-derived stem cell
+E-GEOD-19188,squamous cell carcinoma
+E-GEOD-19519,lymphoblastoid
+E-GEOD-19784,cd138-positive plasma cell
+E-GEOD-19864,fibroblast
+E-GEOD-20033,induced pluripotent stem cell derived from hasc using minicircle reprogramming vector
+E-GEOD-20033,ips cells from episomal vectors (defined factor)
+E-GEOD-20033,adipose stem cells derived from adult human donor
+E-GEOD-20033,induced pluripotent stem cell derived from hasc using lentiviral reprogramming vector
+E-GEOD-20033,ips cells from episomal vectors (defined factor sub-clone)
+E-GEOD-20033,human embryonic stem cell
+E-GEOD-20033,parental foreskin cells
+E-GEOD-20086,normal fibroblast
+E-GEOD-20086,carcinoma-associated fibroblast
+E-GEOD-20114,mononuclear cell
+E-GEOD-20124,wharton's jelly stem cell line
+E-GEOD-20124,embryonic carcinoma cell line
+E-GEOD-20124,embryonic stem cell line
+E-GEOD-20124,fetal fibroblast cell line
+E-GEOD-20272,ovarian cancer cell line
+E-GEOD-20193,wild type
+E-GEOD-20193,hmof over-expressed
+E-GEOD-20193,hmof knock-down
+E-GEOD-20499,enk cell
+E-GEOD-20499,dnk cell
+E-GEOD-20504,endothelial colony forming cell
+E-GEOD-20505,bone marrow-derived cd34+ cells
+E-GEOD-20948,hepatoma
+E-GEOD-21261,mononuclear
+E-GEOD-21612,"cultured spheroid,spheroid"
+E-GEOD-21612,"spheroid,xenografted spheroid"
+E-GEOD-21612,"cultured parental,parental"
+E-GEOD-21612,"parental,xenografted parental"
+E-GEOD-21668,undifferentiated cell
+E-GEOD-21668,cd326negcd56+ cell
+E-GEOD-21774,cd3- cd56dim cd62l+ nk cell
+E-GEOD-21774,cd3- cd56bright cd62l+ nk cell
+E-GEOD-21774,cd3- cd56dim cd62l- nk cell
+E-GEOD-22533,breast cancer
+E-GEOD-22501,regulatory t cell
+E-GEOD-22522,lec spheroids
+E-GEOD-22563,renal
+E-GEOD-22779,mononuclear
+E-GEOD-23687,mononuclear
+E-GEOD-23402,embryonic stem cell
+E-GEOD-23402,induced pluripotent stem cell
+E-GEOD-23402,fibroblast
+E-GEOD-23806,glioblastoma stem-like
+E-GEOD-23806,glioblastoma (neurosphere)
+E-GEOD-23806,glioblastoma
+E-GEOD-23806,glioma
+E-GEOD-23984,cd3 positive t lymphocyte
+E-GEOD-24849,growth factor-mobilized cd34+ hematopoietic stem cells
+E-GEOD-26495,"cd8 positive; cd3 positive,t cell"
+E-GEOD-26343,murine bone-marrow derived macrophages
+E-GEOD-27034,peripheral blood mononuclear cell
+E-GEOD-2706,dendritic cell
+E-GEOD-32719,hematopoietic stem cell
+E-GEOD-32920,human foreskin keratinocytes were isolated at the university of washington.
+E-GEOD-34308,dermal fibroblast
+E-GEOD-35972,epithelial
+E-GEOD-35603,tslc
+E-GEOD-35603,embryonic stem cell
+E-GEOD-35603,parental tumor cell
+E-GEOD-35603,embryonic stem cell (oocyte)
+E-GEOD-35685,human bone marrow cd62lhi
+E-GEOD-35685,human bone marrow cd38-
+E-GEOD-35685,human bone marrow cd10+
+E-GEOD-36547,cd34+
+E-GEOD-37258,fibroblast
+E-GEOD-37258,induced pluripotent stem cell
+E-GEOD-37258,human embryonic stem cell
+E-GEOD-39338,leukemia
+E-GEOD-3998,stromal cell
+E-GEOD-3998,basal cell
+E-GEOD-3998,secretory cell
+E-GEOD-3998,endothelial cell
+E-GEOD-40613,mesenchymal stem cell
+E-GEOD-40613,pulmonary endothelial cells
+E-GEOD-40885,alveolar macrophage
+E-GEOD-4182,amniocyte
+E-GEOD-4219,monolayer recovery
+E-GEOD-4219,spheroid recovery
+E-GEOD-4219,spheroid
+E-GEOD-4219,monolayer
+E-GEOD-42174,diffuse large b cell lymphoma (dlbcl) cells
+E-GEOD-42174,diffuse large b cell lymphoma (dlbcl) cells stably transfected with a tetracycline-inducible litaf expression vector
+E-GEOD-4483,epithelial cell
+E-GEOD-4483,astrocyte
+E-GEOD-4655,cd34+ erythroid progenitor cell
+E-GEOD-4567,endothelial cell
+E-GEOD-4600,epithelial cell
+E-GEOD-4748,dendritic monocyte
+E-GEOD-4883,monocyte derived macrophage
+E-GEOD-4984,monocyte derived dendritic cell
+E-GEOD-4984,mature monocyte derived dendritic cell
+E-GEOD-4984,immature monocyte derived dendritic cell
+E-GEOD-5040,lymphoblast
+E-GEOD-5264,primary epithelial cell
+E-GEOD-5372,epithelial cell
+E-GEOD-5679,dendritic cell
+E-GEOD-5809,stromal cell
+E-GEOD-6034,t cell
+E-GEOD-6054,"cd14 positive,monocyte"
+E-GEOD-6283,amniocyte
+E-GEOD-6283,chorion villus
+E-GEOD-6241,endothelial cell
+E-GEOD-6338,cd4-positive t cell
+E-GEOD-6338,hla-dr positive t cell
+E-GEOD-6338,cd8-positive t cell
+E-GEOD-6338,hla-dr negative t cell
+E-GEOD-6400,epithelial cell
+E-GEOD-6872,sperm
+E-GEOD-7011,cd34 positive
+E-GEOD-7307,t cell
+E-GEOD-7307,cd8+ cell
+E-GEOD-7307,peripheral blood mononuclear cell
+E-GEOD-7307,monocyte
+E-GEOD-7307,b cell
+E-GEOD-7307,cd4+ cell
+E-GEOD-7224,epithelial cell
+E-GEOD-7216,keratinocyte
+E-GEOD-7509,"immature dendritic,mononuclear"
+E-GEOD-7509,"dendritic cell,mononuclear"
+E-GEOD-7509,"monocyte,mononuclear"
+E-GEOD-7538,cd34 positive
+E-GEOD-7515,mammosphere cells
+E-GEOD-7515,breast tumor cells
+E-GEOD-7568,macrophage
+E-GEOD-7835,glioblastoma
+E-GEOD-7890,fibroblast
+E-GEOD-8023,cd34 positive
+E-GEOD-8052,lymphoblastoid cell
+E-GEOD-8658,mononuclear
+E-GEOD-8527,epithelial
+E-GEOD-8717,cancer
+E-GEOD-8823,macrophage
+E-GEOD-8961,epithelial cell
+E-GEOD-8977,stromal cell
+E-GEOD-9169,neuroblastoma
+E-GEOD-9517,hepatoma
+E-GEOD-9599,tumor
+E-GEOD-9649,epithelial cell
+E-GEOD-9894,mesenchymal stem cell
+E-GEOD-9894,erythropoietic
+E-GEOD-9894,granulopoietic
+E-GEOD-9894,hematopoietic
+E-GEOD-9770,layer 3 neuron
+E-GEOD-9770,layer 2 stellate neuron
+E-MEXP-1072,lung epithelial
+E-MEXP-1103,monocyte
+E-MEXP-1192,"embryonic stem cell,human embryonic stem cell"
+E-MEXP-1216,adipose-derived stem cell
+E-MEXP-1216,osteoblast
+E-MEXP-1216,kidney cell
+E-MEXP-1216,dermal fibroblast
+E-MEXP-1230,dendritic cell
+E-MEXP-1290,macrophage
+E-MEXP-1290,macrophage; t cell
+E-MEXP-1372,epithelial cell
+E-MEXP-1337,intestinal mucosa
+E-MEXP-1389,promyelocyte
+E-MEXP-1403,pro-b cell
+E-MEXP-1403,cd34+cd38-/lowcd19+ cell
+E-MEXP-1403,hematopoietic stem cell
+E-MEXP-1412,mononuclear cell
+E-MEXP-1599,epithelial cell
+E-MEXP-1512,epithelial cell
+E-MEXP-1546,cd34+ hematopoietic stem cell
+E-MEXP-1546,cd41 negative portion
+E-MEXP-1546,cd41+ cord blood derived megakaryocyte
+E-MEXP-1601,gamma delta t cell
+E-MEXP-1741,embryonic stem cell
+E-MEXP-1956,fibroblast
+E-MEXP-1958,dendritic cell
+E-MEXP-2115,fibroblast
+E-MEXP-2034,stromal cell
+E-MEXP-2034,epithelial cell
+E-MEXP-2055,gamma delta t cell
+E-MEXP-2069,peripheral blood mononuclear cell
+E-MEXP-2083,intestinal epithelial cell
+E-MEXP-2128,hepatocyte
+E-MEXP-2360,plasma cell
+E-MEXP-2360,activated b cell
+E-MEXP-2360,plasmablast
+E-MEXP-2360,memory b cell
+E-MEXP-2488,nucleus pulposus
+E-MEXP-2488,articular cartilage
+E-MEXP-2426,neuroepithelial cell
+E-MEXP-2426,embryonic stem cell
+E-MEXP-2657,stromal cell
+E-MEXP-3496,gastric epithelial cell
+E-MEXP-3577,embryonic stem cell
+E-MEXP-3641,cumulus cell
+E-MEXP-3641,granulosa cell
+E-MEXP-3711,plasma cell
+E-MEXP-3711,plasmablast
+E-MEXP-3787,monocyte derived dendritic cell
+E-MEXP-3787,cd34-lc
+E-MEXP-3787,hla-dr and cd1a positive mutz-3 dcs
+E-MEXP-3787,cd34-dc
+E-MEXP-3810,cd34+ haemopoetic progenitor cell
+E-MEXP-3810,monoblast
+E-MEXP-3810,myeloblast
+E-MEXP-3810,erythroblast
+E-MEXP-561,lymphatic endothelial cell
+E-MEXP-563,mesenchymal stem cell
+E-MEXP-555,peripheral blood monocyte
+E-MEXP-858,mesenchymal stem cell
+E-MEXP-765,mammary epithelial cell
+E-MEXP-930,embryonic stem cell
+E-MEXP-930,mesendoderm/endoderm progenitor cell
+E-MEXP-884,peripheral blood mononuclear cell
+E-MEXP-964,soft tissue sarcoma
+E-MEXP-980,epithelial cell
+E-MEXP-987,mononuclear
+E-MEXP-993,cd133-/alpha2 integrin low prostate epithelial cell
+E-MEXP-993,cd133+ prostate epithelial cell
+E-MTAB-1131,b cell
+E-MTAB-317,cd138-purified plasma cell
+E-MTAB-372,cd138-positive plasma cell
+E-MTAB-798,hepatocyte
+E-MTAB-874,bronchial epithelial
+E-TABM-1020,mononuclear cell
+E-TABM-1029,mononuclear cell
+E-TABM-1138,cd138-purified plasma cell
+E-TABM-1208,mononuclear cell
+E-TABM-34,bdca1+ dendritic cell
+E-TABM-34,bdca3+ dendritic cell
+E-TABM-34,cd16+ dendritic cell
+E-TABM-34,plasmacytoid dendritic cell
+E-TABM-40,cd8+ naive cd8 t cell
+E-TABM-40,cd8+ effector memory ra t cell
+E-TABM-40,cd8+ effector memory t cell
+E-TABM-40,cd8+ central memory t cell
+E-TABM-404,hematopoietic progenitor cell
+E-TABM-440,keratinocyte
+E-TABM-740,mononuclear cell
+E-TABM-763,peripheral blood mononuclear cell
+E-TABM-868,thp-1 monocytic cells

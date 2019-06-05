@@ -1,0 +1,567 @@
+experiment,EFOValue
+E-GEOD-10070,breast
+E-GEOD-10311,trabecular bone
+E-GEOD-10595,bone marrow
+E-GEOD-10406,sinus mucosa
+E-GEOD-10313,peripheral blood
+E-GEOD-10315,bone marrow
+E-GEOD-10696,epidermis
+E-GEOD-10718,bronchus
+E-GEOD-10746,buccal mucosa
+E-GEOD-10799,lung
+E-GEOD-10821,tonsil
+E-GEOD-10780,breast
+E-GEOD-10820,peripheral blood
+E-GEOD-10831,not applicable
+E-GEOD-10831,tonsil
+E-GEOD-11078,lung
+E-GEOD-11078,non-lung
+E-GEOD-11166,kidney
+E-GEOD-10927,tumor
+E-GEOD-10927,adrenal cortex
+E-GEOD-11755,peripheral blood
+E-GEOD-11208,peripheral ganglion
+E-GEOD-10971,oviduct
+E-GEOD-11057,peripheral blood
+E-GEOD-10979,amnion
+E-GEOD-11045,kidney
+E-GEOD-11045,liver
+E-GEOD-11348,nose
+E-GEOD-11199,peripheral blood
+E-GEOD-11281,peripheral blood
+E-GEOD-11309,peripheral blood
+E-GEOD-11886,peripheral blood
+E-GEOD-11761,peripheral blood
+E-GEOD-11919,skin
+E-GEOD-11783,bladder
+E-GEOD-11941,liver
+E-GEOD-11839,bladder
+E-GEOD-12090,renal tumor
+E-GEOD-12108,peripheral blood
+E-GEOD-12113,pancreatic tumor
+E-GEOD-12121,gum
+E-GEOD-12251,colon
+E-GEOD-12254,liver
+E-GEOD-12034,mixed
+E-GEOD-12264,trabecular bone
+E-GEOD-12265,bone marrow
+E-GEOD-12172,ovary
+E-GEOD-12172,peritoneum
+E-GEOD-12172,other
+E-GEOD-12293,"dorsolateral prefrontal cortex,neurons from dorsolateral prefrontal cortex"
+E-GEOD-12293,cerebellum
+E-GEOD-12293,cortex
+E-GEOD-12293,liver
+E-GEOD-12293,"dorsolateral prefrontal cortex,endothelial cells from dorsolateral prefrontal cortex"
+E-GEOD-12408,peripheral blood
+E-GEOD-12446,endometrium
+E-GEOD-12276,primary breast tumor
+E-GEOD-12287,peripheral blood
+E-GEOD-12452,nasopharynx
+E-GEOD-12710,peripheral blood
+E-GEOD-12631,conjunctiva
+E-GEOD-12662,bone marrow
+E-GEOD-12773,peripheral blood
+E-GEOD-12667,lung
+E-GEOD-12734,peripheral blood
+E-GEOD-12764,mammary gland
+E-GEOD-12949,tumor
+E-GEOD-13002,bone marrow
+E-GEOD-13073,bone marrow
+E-GEOD-13396,bronchus
+E-GEOD-13274,mammary gland
+E-GEOD-13355,skin
+E-GEOD-13319,myometrium
+E-GEOD-13319,leiomyoma
+E-GEOD-13501,peripheral blood
+E-GEOD-13487,skin
+E-GEOD-13837,synovial membrane
+E-GEOD-13637,umbilical vein
+E-GEOD-13548,bone
+E-GEOD-13548,cervix
+E-GEOD-13548,stomach
+E-GEOD-13548,colon
+E-GEOD-13762,peripheral blood
+E-GEOD-13899,peripheral blood
+E-GEOD-13909,peripheral blood
+E-GEOD-13909,spleen
+E-GEOD-13911,stomach
+E-GEOD-13911,tumor
+E-GEOD-14001,ovary
+E-GEOD-14017,lung
+E-GEOD-14017,brain
+E-GEOD-14017,bone
+E-GEOD-13987,peripheral blood
+E-GEOD-14390,aveoli
+E-GEOD-14383,bronchiole
+E-GEOD-14278,peripheral blood
+E-GEOD-14897,foreskin
+E-GEOD-14897,embryo
+E-GEOD-14827,tibia
+E-GEOD-14827,femur
+E-GEOD-14827,humerus
+E-GEOD-14926,peripheral blood
+E-GEOD-14924,peripheral blood
+E-GEOD-14973,peripheral blood
+E-GEOD-15645,peripheral blood
+E-GEOD-15271,tonsil
+E-GEOD-15389,peripheral blood
+E-GEOD-15431,testis
+E-GEOD-15431,ovary
+E-GEOD-15543,pancreas
+E-GEOD-15811,umbilical cord blood
+E-GEOD-16134,gingival
+E-GEOD-15947,prostate
+E-GEOD-16020,peripheral blood
+E-GEOD-16214,peripheral blood
+E-GEOD-16363,lymph node
+E-GEOD-1643,lower lobe lung
+E-GEOD-1643,upper lobe lung
+E-GEOD-16728,peripheral blood
+E-GEOD-16515,pancreas
+E-GEOD-16797,peripheral blood
+E-GEOD-16836,peripheral blood
+E-GEOD-16837,peripheral blood
+E-GEOD-17189,lymph node
+E-GEOD-17189,pleural fluid
+E-GEOD-17189,lung
+E-GEOD-17189,mediastinal/atrial
+E-GEOD-17189,small intestine
+E-GEOD-17189,jejunum
+E-GEOD-17189,neck
+E-GEOD-17189,spinal/epidural
+E-GEOD-17189,hilum/lung
+E-GEOD-17189,colon
+E-GEOD-17189,hilum
+E-GEOD-17251,liver
+E-GEOD-17400,bronchus
+E-GEOD-17763,skin
+E-GEOD-18105,"cancer, lcm"
+E-GEOD-18105,"cancer, homogenized"
+E-GEOD-18105,normal. homogenized
+E-GEOD-17549,peripheral blood
+E-GEOD-17549,skin
+E-GEOD-17539,cultured skin substitute
+E-GEOD-17539,skin
+E-GEOD-17906,prostate
+E-GEOD-17906,bladder
+E-GEOD-18271,ganglioneuroma
+E-GEOD-18271,ganglioneuroblastoma
+E-GEOD-18290,morula
+E-GEOD-18290,embryo
+E-GEOD-18290,blastocyst
+E-GEOD-18290,oocyte
+E-GEOD-18913,umbilical vein
+E-GEOD-18842,lung
+E-GEOD-18995,lung
+E-GEOD-19067,tumor
+E-GEOD-19665,liver
+E-GEOD-19784,bone marrow
+E-GEOD-19826,intestine
+E-GEOD-19804,lung
+E-GEOD-19864,lung
+E-GEOD-19982,kidney
+E-GEOD-20086,normal breast
+E-GEOD-20086,breast carcinoma
+E-GEOD-20114,peripheral blood
+E-GEOD-21164,quadriceps muscle
+E-GEOD-21050,extremity
+E-GEOD-21050,trunk wall
+E-GEOD-21050,internal trunk
+E-GEOD-21050,head and neck
+E-GEOD-20950,subcutaneous adipose
+E-GEOD-20950,omental adipose
+E-GEOD-21138,brodmann area46
+E-GEOD-21261,peripheral blood
+E-GEOD-21610,myocardial tissue
+E-GEOD-21887,human prostate cancer xenograft
+E-GEOD-22229,blood
+E-GEOD-22501,peripheral blood
+E-GEOD-22501,"cord blood,umbilical cord blood"
+E-GEOD-22513,breast
+E-GEOD-22541,primary clear-cell renal cell carcinoma
+E-GEOD-22541,not specified
+E-GEOD-22541,pulmonary metastasis of clear-cell renal cell carcinoma (laser resection)
+E-GEOD-22544,mammary gland
+E-GEOD-22563,kidney
+E-GEOD-22779,peripheral blood
+E-GEOD-23687,peripheral blood
+E-GEOD-23031,liver
+E-GEOD-23878,colorectal tissue
+E-GEOD-23878,colon tumor
+E-GEOD-23984,peripheral blood
+E-GEOD-24235,biceps brachii
+E-GEOD-25550,tumor
+E-GEOD-25550,spleen
+E-GEOD-25518,testis
+E-GEOD-26495,peripheral blood
+E-GEOD-2634,blood
+E-GEOD-26673,lymph node
+E-GEOD-26966,pituitary gland
+E-GEOD-27187,bone marrow
+E-GEOD-28815,blastocyst
+E-GEOD-28815,foreskin fibroblast
+E-GEOD-28815,lung fibroblast
+E-GEOD-29908,peripheral blood mononuclear cell
+E-GEOD-31193,liver
+E-GEOD-32719,bone marrow
+E-GEOD-33006,ajacent normal liver
+E-GEOD-33006,hepatocellular carcinoma (hcc)
+E-GEOD-3467,thyroid
+E-GEOD-34670,bone marrow
+E-GEOD-34670,cord blood
+E-GEOD-34670,cell line
+E-GEOD-34670,peripheral blood
+E-GEOD-34748,kidney
+E-GEOD-34880,bone marrow
+E-GEOD-3526,pharyngeal mucosa
+E-GEOD-3526,cerebellum
+E-GEOD-3526,testes
+E-GEOD-3526,heart atrium
+E-GEOD-3526,putamen
+E-GEOD-3526,temporal lobe
+E-GEOD-3526,medulla
+E-GEOD-3526,hippocampus
+E-GEOD-3526,midbrain
+E-GEOD-3526,dorsal root ganglion
+E-GEOD-3526,hypothalamus
+E-GEOD-3526,adipose tissue
+E-GEOD-3526,subthalamic nucleus
+E-GEOD-3526,tongue superior part w/ papillae
+E-GEOD-3526,frontal lobe
+E-GEOD-3526,colon cecum
+E-GEOD-3526,adipose tissue subcutaneous
+E-GEOD-3526,nipple cross-section
+E-GEOD-3526,corpus callosum
+E-GEOD-3526,spleen
+E-GEOD-3526,vestibular nuclei superior
+E-GEOD-3526,cerebral cortex
+E-GEOD-3526,cervix
+E-GEOD-3526,spinal cord
+E-GEOD-3526,trigeminal ganglion
+E-GEOD-3526,accumbens
+E-GEOD-3526,tonsil
+E-GEOD-3526,oral mucosa
+E-GEOD-3526,occipital lobe
+E-GEOD-3526,endometrium
+E-GEOD-3526,substantia nigra
+E-GEOD-3526,vagina
+E-GEOD-3526,heart ventricle
+E-GEOD-3526,prostate gland
+E-GEOD-3526,tongue main corpus
+E-GEOD-3526,lung
+E-GEOD-3526,pituitary gland
+E-GEOD-3526,ventral tegmental area
+E-GEOD-3526,parietal lobe
+E-GEOD-3526,bronchus
+E-GEOD-3526,kidney medulla
+E-GEOD-3526,mammary gland
+E-GEOD-3526,adrenal gland cortex
+E-GEOD-3526,amygdala
+E-GEOD-3526,stomach fundus
+E-GEOD-3526,thalamus
+E-GEOD-3526,thyroid gland
+E-GEOD-3526,esophagus
+E-GEOD-3526,urethra
+E-GEOD-3526,lymph node
+E-GEOD-3526,nodose nucleus
+E-GEOD-3526,liver
+E-GEOD-3526,kidney cortex
+E-GEOD-3526,stomach pyloric
+E-GEOD-3526,trachea
+E-GEOD-3526,saphenous vein
+E-GEOD-3526,stomach cardiac
+E-GEOD-3526,bone marrow
+E-GEOD-3526,salivary gland
+E-GEOD-3526,myometrium
+E-GEOD-3526,ovary
+E-GEOD-3526,coronary artery
+E-GEOD-3526,vulva
+E-GEOD-3526,skeletal muscle
+E-GEOD-3526,adipose tissue omental
+E-GEOD-36287,primary keratinocytes
+E-GEOD-36547,umbilical cord blood
+E-GEOD-36809,white blood cell
+E-GEOD-3678,thyroid
+E-GEOD-36789,leaves
+E-GEOD-36789,roots
+E-GEOD-3744,mammary gland
+E-GEOD-3998,prostate
+E-GEOD-40231,liver
+E-GEOD-40231,skeletal muscle
+E-GEOD-40231,visceral fat
+E-GEOD-40231,atherosclerotic aortic wall
+E-GEOD-40231,internal mammary artery
+E-GEOD-40514,mammary epithelium
+E-GEOD-40611,parotid gland
+E-GEOD-41386,"uterus, normal myometrium"
+E-GEOD-41386,"uterus, leiomyoma"
+E-GEOD-4290,brain
+E-GEOD-4386,atrial tissue
+E-GEOD-4655,peripheral blood
+E-GEOD-4567,pulmonary artery
+E-GEOD-4883,peripheral blood
+E-GEOD-4888,uterus
+E-GEOD-4888,endometrium
+E-GEOD-5040,peripheral blood
+E-GEOD-5110,vastus lateralis
+E-GEOD-5264,bronchus
+E-GEOD-5372,bronchus
+E-GEOD-5563,vulva
+E-GEOD-5764,mammary gland
+E-GEOD-5809,endometrium
+E-GEOD-6004,thyroid
+E-GEOD-6054,peripheral blood
+E-GEOD-6241,umbilical vein
+E-GEOD-6364,mid secretory phase endometrium
+E-GEOD-6364,proliferative phase endometrium
+E-GEOD-6364,early secretory phase endometrium
+E-GEOD-6338,lymph node
+E-GEOD-6338,peripheral blood or tonsil
+E-GEOD-6764,liver
+E-GEOD-7011,umbilical cord blood
+E-GEOD-7307,nipple
+E-GEOD-7307,kidney cortex
+E-GEOD-7307,ventral tegmental area
+E-GEOD-7307,thalamus subthalamic nucleus
+E-GEOD-7307,myometrium
+E-GEOD-7307,temporal lobe
+E-GEOD-7307,cerebellar
+E-GEOD-7307,vestibular nuclei
+E-GEOD-7307,endometrium/ovary
+E-GEOD-7307,substantia nigra pars compacta
+E-GEOD-7307,gloubus pallidum internal
+E-GEOD-7307,brain
+E-GEOD-7307,thalamus
+E-GEOD-7307,synovial membrane
+E-GEOD-7307,accumbens
+E-GEOD-7307,dorsal root ganglion
+E-GEOD-7307,substantia nigra
+E-GEOD-7307,skin
+E-GEOD-7307,trachea
+E-GEOD-7307,cerebellum
+E-GEOD-7307,medulla
+E-GEOD-7307,putamen
+E-GEOD-7307,lung
+E-GEOD-7307,endometrium
+E-GEOD-7307,caudate
+E-GEOD-7307,testis
+E-GEOD-7307,prostate
+E-GEOD-7307,oral mucosa
+E-GEOD-7307,jejunum
+E-GEOD-7307,hippocampus
+E-GEOD-7307,heart
+E-GEOD-7307,subthalamic nucleus
+E-GEOD-7307,aorta
+E-GEOD-7307,gloubus pallidum external
+E-GEOD-7307,kidney
+E-GEOD-7307,corpus callosum
+E-GEOD-7307,deltoid muscle
+E-GEOD-7307,amygdala
+E-GEOD-7307,subcutaneous adipose tissue
+E-GEOD-7307,duodenum
+E-GEOD-7307,esophagus
+E-GEOD-7307,heart atrium
+E-GEOD-7307,fallopian tube
+E-GEOD-7307,bone marrow
+E-GEOD-7307,lymph node
+E-GEOD-7307,salivary gland
+E-GEOD-7307,occipital lobe
+E-GEOD-7307,parietal lobe
+E-GEOD-7307,frontal lobe
+E-GEOD-7307,cerebral cortex
+E-GEOD-7307,vagina
+E-GEOD-7307,spleen
+E-GEOD-7307,urethra
+E-GEOD-7307,paravertebral muscle
+E-GEOD-7307,pituitary gland
+E-GEOD-7307,spinal cord
+E-GEOD-7307,trigeminal ganglion
+E-GEOD-7307,tongue superior with papillae
+E-GEOD-7307,penis
+E-GEOD-7307,stomach fundus
+E-GEOD-7307,stomach pyloric
+E-GEOD-7307,saphenous vein
+E-GEOD-7307,mammary gland
+E-GEOD-7307,retrocervical infiltrate
+E-GEOD-7307,adrenal gland cortex
+E-GEOD-7307,colon cecum
+E-GEOD-7307,hypothalamus
+E-GEOD-7307,thalamus lateral nucleus
+E-GEOD-7307,skeletal muscle
+E-GEOD-7307,tongue main corpus
+E-GEOD-7307,kidney medulla
+E-GEOD-7307,small intestine
+E-GEOD-7307,vulva
+E-GEOD-7307,liver
+E-GEOD-7307,uterus
+E-GEOD-7307,globus pallidus
+E-GEOD-7307,adipose tissue
+E-GEOD-7307,stomach
+E-GEOD-7307,tongue
+E-GEOD-7307,cervix
+E-GEOD-7307,pharyngeal mucosa
+E-GEOD-7307,nodose nucleus
+E-GEOD-7307,thyroid gland
+E-GEOD-7307,midbrain
+E-GEOD-7307,joint synovium
+E-GEOD-7307,stomach cardiac
+E-GEOD-7307,tonsil
+E-GEOD-7307,bronchus
+E-GEOD-7307,pericardium
+E-GEOD-7307,ovary
+E-GEOD-7307,substantia nigra reticulata
+E-GEOD-7307,vena cava
+E-GEOD-7307,pancreas
+E-GEOD-7307,frontal cortex
+E-GEOD-7307,coronary artery
+E-GEOD-7307,heart ventricle
+E-GEOD-7307,peritoneum
+E-GEOD-7307,thymus
+E-GEOD-7307,placenta
+E-GEOD-7307,pons
+E-GEOD-7307,cerebellar vermis
+E-GEOD-7307,prefrontal cortex
+E-GEOD-7307,colon
+E-GEOD-7224,tonsil
+E-GEOD-7224,gingival
+E-GEOD-7216,epidermis
+E-GEOD-7440,bone marrow
+E-GEOD-7509,peripheral blood
+E-GEOD-7392,kidney
+E-GEOD-7515,breast
+E-GEOD-7586,placenta
+E-GEOD-7621,substantia nigra
+E-GEOD-7696,brain
+E-GEOD-7869,kidney
+E-GEOD-7890,skin
+E-GEOD-8023,umbilical cord blood
+E-GEOD-8167,small intestine
+E-GEOD-8167,stomach
+E-GEOD-8121,whole blood
+E-GEOD-8514,adrenal gland
+E-GEOD-8658,peripheral blood
+E-GEOD-8527,pharynx
+E-GEOD-8717,peripheral nerve sheath
+E-GEOD-9489,kidney
+E-GEOD-8823,alveolus
+E-GEOD-8961,bronchiole
+E-GEOD-8977,mammary gland
+E-GEOD-9171,tumor
+E-GEOD-9103,vastus lateralis muscle
+E-GEOD-9452,descending colon
+E-GEOD-9452,sigmoideum
+E-GEOD-9452,colon
+E-GEOD-9692,peripheral blood
+E-GEOD-9517,liver
+E-GEOD-9599,pancreas
+E-GEOD-9649,mammary gland
+E-GEOD-9894,bone marrow
+E-GEOD-9770,superior frontal gyrus
+E-GEOD-9770,middle temporal gyrus
+E-GEOD-9770,primary visual cortex
+E-GEOD-9770,posterior cingulate cortex
+E-GEOD-9770,hippocampus
+E-GEOD-9770,entorhinal cortex
+E-MEXP-1103,blood
+E-MEXP-1171,colon
+E-MEXP-1140,islet of langerhans
+E-MEXP-1140,pancreas
+E-MEXP-1243,prostate
+E-MEXP-1216,adipose tissue
+E-MEXP-1216,bone
+E-MEXP-1216,kidney
+E-MEXP-1216,skin
+E-MEXP-1290,blood
+E-MEXP-1372,colon
+E-MEXP-1337,intestine
+E-MEXP-1389,blood
+E-MEXP-1403,cord blood
+E-MEXP-1482,blood
+E-MEXP-1412,blood
+E-MEXP-1425,adipose tissue
+E-MEXP-1599,lung
+E-MEXP-1512,bronchial epithelium
+E-MEXP-1546,umbilical cord
+E-MEXP-1601,blood
+E-MEXP-1828,duodenum
+E-MEXP-1857,lung
+E-MEXP-2010,colon
+E-MEXP-1901,rectum
+E-MEXP-1922,connective tissue
+E-MEXP-1922,abdomen
+E-MEXP-1922,thorax
+E-MEXP-1922,hindlimb
+E-MEXP-1922,forelimb
+E-MEXP-2115,lung
+E-MEXP-2034,prostate
+E-MEXP-2055,blood
+E-MEXP-2069,blood
+E-MEXP-2083,colon
+E-MEXP-2280,medial temporal lobe
+E-MEXP-2128,liver
+E-MEXP-2236,skin
+E-MEXP-2351,brain
+E-MEXP-2360,bone marrow
+E-MEXP-2375,liver
+E-MEXP-2559,skeletal muscle
+E-MEXP-2590,colon
+E-MEXP-2657,prostate
+E-MEXP-3582,blood
+E-MEXP-3582,umbilical cord
+E-MEXP-3582,palatine tonsil
+E-MEXP-3628,bone
+E-MEXP-3641,ovarian follicle
+E-MEXP-3711,spleen
+E-MEXP-3810,cord blood
+E-MEXP-3756,blood
+E-MEXP-561,skin
+E-MEXP-555,blood
+E-MEXP-858,bone marrow
+E-MEXP-935,ovary
+E-MEXP-884,blood
+E-MEXP-964,adipose tissue
+E-MEXP-980,lung
+E-MEXP-987,blood
+E-MEXP-993,prostate
+E-MTAB-372,bone marrow
+E-MTAB-680,decidual tissue
+E-MTAB-698,vomeronasal organ
+E-MTAB-69,cerebrospinal fluid
+E-MTAB-69,peripheral blood lymphocyte
+E-MTAB-874,lung
+E-TABM-1020,bone marrow
+E-TABM-1020,peripheral blood
+E-TABM-1029,bone marrow
+E-TABM-118,descending colon
+E-TABM-1208,bone marrow
+E-TABM-1208,peripheral blood
+E-TABM-176,sigmoid colon mucosa
+E-TABM-234,testis
+E-TABM-276,mammary gland
+E-TABM-282,kidney
+E-TABM-302,oral cavity
+E-TABM-302,hypopharynx
+E-TABM-302,tongue
+E-TABM-302,oropharynx
+E-TABM-666,whole blood
+E-TABM-311,adrenal gland
+E-TABM-34,blood
+E-TABM-34,tonsil
+E-TABM-404,bone marrow
+E-TABM-440,skin
+E-TABM-577,placenta
+E-TABM-601,mammary gland
+E-TABM-702,lymph node
+E-TABM-702,hypophysis
+E-TABM-702,nasopharyngeal region
+E-TABM-702,skin
+E-TABM-740,peripheral blood
+E-TABM-763,blood
+E-TABM-783,lymph node
+E-TABM-783,from lymph node
+E-TABM-783,n/a
+E-TABM-84,kidney
+E-TABM-84,liver
+E-TABM-84,prefrontal cortex
+E-TABM-84,heart
