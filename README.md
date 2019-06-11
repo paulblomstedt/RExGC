@@ -9,6 +9,7 @@ This file describes the workflow for downloading, processing and analysing the d
     <a href="http://bioinformatics.oxfordjournals.org/content/32/9/1388">[Link]</a>
 </p>
 
+The files in this repository are also available as a [zip file](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/bioinformatics/32/9/10.1093_bioinformatics_btv762/4/btv762_Supplementary_Data.zip?Expires=1560340402&Signature=TG~QUE7J8hVpkbX5wcWqvwKcXNYlWg9yKLoznl5NPjKMP4XWDKIHIyJFRMzjEspZ93mBaNw8oz5UfQajjyDkG-CoYPExGafJylpbPG9vlgg8YTGF-D8l6XqSLLZj7U~tbigZitus-3JPUvGMqkRwvAg4QVn1t-tKdpqx67k-ljtJqejMikKumA13OFmJUoNP7oFNHEAL13n33g00vzvPz8kPJon3d0sJ-hc9orqp64k9pI9QJ~AfHekv772xu07V8uqmWttj1Zc46w7Men7dAvsSQMPsQFx2Cyqu3AWrz2Zqmb9ohZy0tpU0K98IL74t1t4zNukU6cQvWfj349BFkQ__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA) from the publisher's webpage. 
 The code runs in MATLAB (version R2012b or later) and has been designed and tested in linux.
 For a demo, run the `demo.m` script. 
 Datasets are stored in the Data folder with the following subfolders 
